@@ -11,7 +11,7 @@ function nextLine(line) {
 
 
 function redirectToGarfield() {
-	window.location.href("https://en.wikipedia.org/wiki/Garfield");
+	window.location.replace("https://en.wikipedia.org/wiki/Garfield");
 }
 
 function redirectToGitHub() {
