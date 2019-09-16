@@ -8,3 +8,8 @@ function nextLine(line) {
 
 	document.getElementById("line").innerHTML=poem[line];
 }
+
+
+function redirectToGarfield() {
+	window.location.replace("https://en.wikipedia.org/wiki/Garfield");
+}
