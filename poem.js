@@ -13,3 +13,15 @@ function nextLine(line) {
 function redirectToGarfield() {
 	window.location.replace("https://en.wikipedia.org/wiki/Garfield");
 }
+
+function redirectToGitHub() {
+	window.location.replace("https://github.com/bryantal");
+}
+
+function redirectToBlog() {
+	window.location.replace("https://bryantalfall2019opensource.blogspot.com");
+}
+
+function changeButtonColor() {
+	document.getElementById("myButton").style.background = "#5FE209"
+}
