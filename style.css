@@ -18,6 +18,8 @@
 html, body {
 	margin: 0;  /* Margin is the amount of space between the border of an element, and the elements outside it. */
 	padding: 0; /* Padding is the amount of space between the border of an element, and the elements inside it. */
+	cursor: url(http://ani.cursors-4u.net/cursors/cur-13/cur1149.ani), url(http://ani.cursors-4u.net/cursors/cur-13/cur1149.png), auto !important; /* End http://www.cursors-4u.com */
+	height: 100%;
 }
 
 body{
